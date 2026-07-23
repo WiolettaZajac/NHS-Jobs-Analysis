@@ -4,15 +4,12 @@ I created this project to practise using Python to analyse a real-world dataset.
 Using Pandas and Matplotlib, I explored NHS job vacancy data to understand salary distribution, the most common job specialties, the largest employers, and different working patterns.
 
 ---
+
 ## Visualisations
 
 ### Salary Distribution
 
 ![Salary Distribution](screenshots/distribution_of_salaries.png)
-
-### Top 10 NHS Employers
-
-![Top 10 NHS Employers](screenshots/top10_employers.png)
 
 ### Top 10 NHS Specialties
 
@@ -21,10 +18,6 @@ Using Pandas and Matplotlib, I explored NHS job vacancy data to understand salar
 ### Top 5 Working Patterns
 
 ![Top 5 Working Patterns](screenshots/top5-working-patterns.png)
-
-### Working Patterns
-
-![Working Patterns](screenshots/working_patterns.png)
 
 ---
 
